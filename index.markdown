@@ -4,7 +4,7 @@
 
 layout: home
 page-title: >
-    Independent Solutions Architect & System Author
+    Execution services for small businesses
 sitemap: left
 sitemap-heading: Home
 sitemap-sort: 1
