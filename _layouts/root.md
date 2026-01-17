@@ -19,7 +19,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     </head>
-    <body class="bg-black text-white">
+    <body class="bg-white text-black">
         {% include nav.html %}
         {{content}}
         {% include footer.html %}
