@@ -2,4 +2,4 @@
 
 ## content coming soon
 
-This is where the main home page will be
+This is where the main home page will be.
