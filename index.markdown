@@ -8,7 +8,7 @@ page-title: >
 sitemap: left
 sitemap-heading: Home
 sitemap-sort: 1
-nav-type: right
-nav-title: Home
-nav-sort: 0
+nav-type: 
+nav-title: 
+nav-sort: 
 ---

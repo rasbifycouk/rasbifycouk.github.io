@@ -1,5 +1,13 @@
 ---
 layout: default
+page-title: >
+    Our Services
+nav-type: right
+nav-title: Our Services
+nav-sort: 1
+sitemap: right
+sitemap-heading: Our Services
+sitemap-sort: 2
 ---
 
 <!-- OUR SERVICES PAGE (Bootstrap 5) -->
