@@ -38,7 +38,3 @@ layout: root
     </div>
   </div>
 </section>
-
-{% include highlights.html %}
-
-{% include cards.html %}
