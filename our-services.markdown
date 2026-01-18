@@ -5,7 +5,7 @@ page-title: >
 nav-type: right
 nav-title: Our Services
 nav-sort: 1
-sitemap: right
+sitemap-type: right
 sitemap-heading: Our Services
 sitemap-sort: 2
 ---
