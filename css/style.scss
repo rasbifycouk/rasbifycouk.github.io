@@ -119,6 +119,10 @@ h3 {
     margin-top: calc(var(--navbar-height))!important;
 }
 
+.hero-panel {
+    background: radial-gradient(circle, rgb(71 43 101) 13%, rgba(0, 0, 0, 1) 100%);
+}
+
 .hero {
     min-height: 40em; //45em;
     object-fit: cover;
