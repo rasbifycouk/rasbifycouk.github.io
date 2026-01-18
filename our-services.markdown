@@ -57,154 +57,246 @@ layout: default
     </div>
   </section>
 
-  <!-- SECTION 2: Services list -->
-  <section class="py-5">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-10 col-xl-9">
+  <!-- SERVICES (Cards with Includes / Not included) -->
+<section class="py-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10 col-xl-9">
 
-          <!-- Service 1 -->
-          <article class="py-4 border-bottom">
-            <div class="row g-4 align-items-start">
-              <div class="col-md-4">
-                <h3 class="h4 fw-semibold mb-2">Website design &amp; build</h3>
-                <p class="text-muted mb-0">A professional brochure-style website delivered to a fixed scope.</p>
-              </div>
+        <div class="row g-3 g-lg-4">
 
-              <div class="col-md-8">
+          <!-- Card 1 -->
+          <div class="col-12 col-md-6">
+            <div class="card h-100 border rounded-4">
+              <div class="card-body p-4">
+                <h3 class="h5 fw-semibold mb-3">Website design &amp; build</h3>
+
                 <div class="row g-3">
                   <div class="col-sm-6">
                     <h4 class="h6 fw-semibold mb-2">Includes</h4>
-                    <ul class="text-muted mb-0">
+                    <ul class="small text-muted mb-0 ps-3">
                       <li>Typically 5–8 pages</li>
-                      <li>Mobile-responsive layout</li>
+                      <li>Mobile responsive</li>
                       <li>Contact form</li>
                       <li>Basic SEO setup</li>
                       <li>Launch support</li>
                     </ul>
                   </div>
-
                   <div class="col-sm-6">
                     <h4 class="h6 fw-semibold mb-2">Not included</h4>
-                    <ul class="text-muted mb-0">
+                    <ul class="small text-muted mb-0 ps-3">
                       <li>Strategy or consulting</li>
-                      <li>SEO campaigns or paid advertising</li>
+                      <li>SEO campaigns / paid ads</li>
                       <li>Complex integrations</li>
                       <li>Custom platforms</li>
                     </ul>
                   </div>
                 </div>
+
               </div>
             </div>
-          </article>
+          </div>
 
-          <!-- Service 2 -->
-          <article class="py-4 border-bottom">
-            <div class="row g-4 align-items-start">
-              <div class="col-md-4">
-                <h3 class="h4 fw-semibold mb-2">Website refresh / rebuild</h3>
-                <p class="text-muted mb-0">Modernisation of an existing site to improve clarity, structure, and performance.</p>
-              </div>
+          <!-- Card 2 -->
+          <div class="col-12 col-md-6">
+            <div class="card h-100 border rounded-4">
+              <div class="card-body p-4">
+                <h3 class="h5 fw-semibold mb-3">Website refresh / rebuild</h3>
 
-              <div class="col-md-8">
                 <div class="row g-3">
                   <div class="col-sm-6">
                     <h4 class="h6 fw-semibold mb-2">Includes</h4>
-                    <ul class="text-muted mb-0">
+                    <ul class="small text-muted mb-0 ps-3">
                       <li>Visual refresh or rebuild</li>
-                      <li>Structural tidy-up</li>
-                      <li>Performance and usability fixes</li>
-                      <li>Content migration where required</li>
-                      <li>Mobile improvements (if needed)</li>
+                      <li>Structural improvements</li>
+                      <li>Performance fixes</li>
+                      <li>Content migration (as required)</li>
+                      <li>Mobile improvements</li>
                     </ul>
                   </div>
-
                   <div class="col-sm-6">
                     <h4 class="h6 fw-semibold mb-2">Not included</h4>
-                    <ul class="text-muted mb-0">
-                      <li>Repositioning or rebrand strategy</li>
-                      <li>Marketing optimisation programmes</li>
-                      <li>Ongoing development</li>
+                    <ul class="small text-muted mb-0 ps-3">
+                      <li>Rebrand strategy</li>
+                      <li>Marketing optimisation</li>
                       <li>Complex system work</li>
+                      <li>Open-ended development</li>
                     </ul>
                   </div>
                 </div>
+
               </div>
             </div>
-          </article>
+          </div>
 
-          <!-- Service 3 -->
-          <article class="py-4 border-bottom">
-            <div class="row g-4 align-items-start">
-              <div class="col-md-4">
-                <h3 class="h4 fw-semibold mb-2">Brand starter kit</h3>
-                <p class="text-muted mb-0">A usable visual identity: logo plus basic guidance for consistent application.</p>
-              </div>
+          <!-- Card 3 -->
+          <div class="col-12 col-md-6">
+            <div class="card h-100 border rounded-4">
+              <div class="card-body p-4">
+                <h3 class="h5 fw-semibold mb-3">Brand starter kit</h3>
 
-              <div class="col-md-8">
                 <div class="row g-3">
                   <div class="col-sm-6">
                     <h4 class="h6 fw-semibold mb-2">Includes</h4>
-                    <ul class="text-muted mb-0">
-                      <li>Logo creation or refinement</li>
+                    <ul class="small text-muted mb-0 ps-3">
+                      <li>Logo or logo refinement</li>
                       <li>Colour palette</li>
-                      <li>Typography selection</li>
+                      <li>Typography</li>
                       <li>Basic usage guidance</li>
                     </ul>
                   </div>
-
                   <div class="col-sm-6">
                     <h4 class="h6 fw-semibold mb-2">Not included</h4>
-                    <ul class="text-muted mb-0">
-                      <li>Brand positioning or messaging</li>
+                    <ul class="small text-muted mb-0 ps-3">
+                      <li>Positioning or messaging</li>
                       <li>Audience research</li>
-                      <li>Extensive exploration rounds</li>
+                      <li>Extensive exploration</li>
                       <li>Full brand systems</li>
                     </ul>
                   </div>
                 </div>
+
               </div>
             </div>
-          </article>
+          </div>
 
-          <!-- Service 4 -->
-          <article class="py-4">
-            <div class="row g-4 align-items-start">
-              <div class="col-md-4">
-                <h3 class="h4 fw-semibold mb-2">Website care &amp; maintenance</h3>
-                <p class="text-muted mb-0">Simple monthly upkeep to keep a site stable, updated, and operational.</p>
-              </div>
+          <!-- Card 4 -->
+          <div class="col-12 col-md-6">
+            <div class="card h-100 border rounded-4">
+              <div class="card-body p-4">
+                <h3 class="h5 fw-semibold mb-3">Website care &amp; maintenance</h3>
 
-              <div class="col-md-8">
                 <div class="row g-3">
                   <div class="col-sm-6">
                     <h4 class="h6 fw-semibold mb-2">Includes</h4>
-                    <ul class="text-muted mb-0">
+                    <ul class="small text-muted mb-0 ps-3">
                       <li>Updates</li>
                       <li>Backups</li>
                       <li>Monitoring</li>
                       <li>Minor content changes</li>
                     </ul>
                   </div>
-
                   <div class="col-sm-6">
                     <h4 class="h6 fw-semibold mb-2">Not included</h4>
-                    <ul class="text-muted mb-0">
+                    <ul class="small text-muted mb-0 ps-3">
                       <li>Feature development</li>
                       <li>Strategic optimisation</li>
-                      <li>Custom work on demand</li>
-                      <li>Open-ended technical ownership</li>
+                      <li>Custom integrations</li>
+                      <li>Open-ended support</li>
                     </ul>
                   </div>
                 </div>
+
               </div>
             </div>
-          </article>
+          </div>
 
-        </div>
+        </div><!-- /row -->
+
       </div>
     </div>
-  </section>
+  </div>
+</section>
+
+<!-- OPTIONAL: COMPARISON (Constraints view) -->
+<section class="py-5 border-top bg-light">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10 col-xl-9">
+
+        <h2 class="fw-semibold mb-3">At a glance</h2>
+        <p class="text-muted mb-4">
+          This comparison is intended to clarify scope and exclusions, not to encourage bespoke packages.
+        </p>
+
+        <div class="table-responsive">
+          <table class="table align-middle bg-white border">
+            <thead class="table-light">
+              <tr>
+                <th scope="col">Capability</th>
+                <th scope="col">Website build</th>
+                <th scope="col">Refresh / rebuild</th>
+                <th scope="col">Brand starter</th>
+                <th scope="col">Ongoing care</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Pages / structure</td>
+                <td>5–8 pages</td>
+                <td>Existing site</td>
+                <td>—</td>
+                <td>—</td>
+              </tr>
+              <tr>
+                <td>Contact form</td>
+                <td>Included</td>
+                <td>Included (if needed)</td>
+                <td>—</td>
+                <td>—</td>
+              </tr>
+              <tr>
+                <td>Basic SEO setup</td>
+                <td>Included</td>
+                <td>Included (baseline)</td>
+                <td>—</td>
+                <td>—</td>
+              </tr>
+              <tr>
+                <td>Content migration</td>
+                <td>Limited</td>
+                <td>Included (as required)</td>
+                <td>—</td>
+                <td>—</td>
+              </tr>
+              <tr>
+                <td>Logo</td>
+                <td>Optional add-on</td>
+                <td>Optional add-on</td>
+                <td>Included</td>
+                <td>—</td>
+              </tr>
+              <tr>
+                <td>Updates / backups</td>
+                <td>—</td>
+                <td>—</td>
+                <td>—</td>
+                <td>Included</td>
+              </tr>
+              <tr>
+                <td>Strategy / consulting</td>
+                <td class="text-muted">Not included</td>
+                <td class="text-muted">Not included</td>
+                <td class="text-muted">Not included</td>
+                <td class="text-muted">Not included</td>
+              </tr>
+              <tr>
+                <td>SEO campaigns / paid ads</td>
+                <td class="text-muted">Not included</td>
+                <td class="text-muted">Not included</td>
+                <td class="text-muted">Not included</td>
+                <td class="text-muted">Not included</td>
+              </tr>
+              <tr>
+                <td>Custom platforms / integrations</td>
+                <td class="text-muted">Not included</td>
+                <td class="text-muted">Not included</td>
+                <td class="text-muted">Not included</td>
+                <td class="text-muted">Not included</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <p class="small text-muted mt-3 mb-0">
+          If a request doesn’t fit cleanly, we decline early rather than stretch scope.
+        </p>
+
+      </div>
+    </div>
+  </div>
+</section>
+
 
   <!-- SECTION 3: Pricing note (no numbers) -->
   <section class="py-5 border-top border-bottom bg-light">
