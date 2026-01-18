@@ -2,8 +2,6 @@
 layout: root
 ---
 
-{% include hero.html %}
-
 <section class="py-5">
   <div class="container-fluid px-3 px-lg-4">
     <div class="hero-panel mx-auto bg-dark rounded-4 rounded-sm-5 rounded-md-5">
