@@ -73,11 +73,6 @@ h3 {
         font-weight: 600;
     }
 
-    .navbar-telephone {
-        font-size: 1.2em!important;
-        font-weight: bolder!important;
-    }
-
     .nav-link,
     .navbar-brand {
         color: black;
@@ -114,6 +109,10 @@ h3 {
             margin-left: 0.5em;
         }
 
+        .nav-link-telephone {
+            font-size: 1.2em!important;
+            font-weight: bolder!important;
+        }
     //}
 }
 
