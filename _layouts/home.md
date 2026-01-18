@@ -6,7 +6,7 @@ layout: root
   <div class="container-fluid px-3 px-lg-4">
     <div class="hero-panel mx-auto bg-dark rounded-4 rounded-sm-5 rounded-md-5">
       <div class="container py-5">
-        <div class="row justify-content-center py-5">
+        <div class="row justify-content-center py-sm-5">
           <div class="col-lg-10 col-xl-9 text-center text-white">
 
             <h1 class="display-5 fw-semibold mb-4">
