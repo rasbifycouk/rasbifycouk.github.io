@@ -82,6 +82,7 @@ h3 {
     :has(div.show) {
         background-color: white!important;
         transition: all .2s;
+        padding-bottom: 1rem;
     }
 
     :has(div.show) .nav-link,
