@@ -5,7 +5,7 @@ page-title: >
 nav-type: 
 nav-title: 
 nav-sort: 
-sitemap-type: right
+sitemap: right
 sitemap-heading: For Introducers
 sitemap-sort: 3
 ---

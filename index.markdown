@@ -5,7 +5,7 @@
 layout: home
 page-title: >
     Execution services for small businesses
-sitemap-type: left
+sitemap: left
 sitemap-heading: Home
 sitemap-sort: 1
 nav-type: 

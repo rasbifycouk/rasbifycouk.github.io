@@ -5,7 +5,7 @@ page-title: >
 nav-type: right
 nav-title: Request Service
 nav-sort: 0
-sitemap-type: left
+sitemap: left
 sitemap-heading: Request Service
 sitemap-sort: 1
 ---
